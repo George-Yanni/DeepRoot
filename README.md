@@ -291,7 +291,7 @@ See [Stealth Mode Guide](Stealth_Mode_Guide/README.md) for details.
 
 ## Credits
 
-- **Exploit Development:** George S. Yanni
+- **DeepRoot Development:** George S. Yanni
 - **Vulnerability:** CVE-2021-3493 (OverlayFS Privilege Escalation)
 - **Original Advisory:** SSD Advisory - OverlayFS PE
 
